@@ -1,0 +1,330 @@
+{
+    "general_information": {
+        "working_job_title": "Business Data & Application Developer",
+        "job_family": "IT",
+        "job_family_zone": "TBD",
+        "position_number": 342,
+        "department_name": "NeBIS",
+        "sap_organization_unit_number": "500002325",
+        "employee_name": "",
+        "date_of_last_update": "05092022",
+        "last_updated_by": "HR",
+        "title_of_supervisor": "Lead SAP Developer",
+        "sap_personnel": "141443",
+        "name_of_supervisor": "Tony Sullivan"
+    },
+    "position_summary": "The position is responsible for providing database management and application program development for the University of Nebraska and Nebraska State College System as part of the Nebraska Business Information System team. This position provides support for the business data warehouse and BI reporting systems, ERP and other integrated business systems. Responsibilities include implementing technical business solutions to meet system/software requirements ensuring integration with other applications. Investigating and maintaining a high-level knowledge in business systems’ capabilities including, enterprise information/database management tools for data storing, transformation and management functions supporting business users access to data, analytical solutions to enable business analysis, reporting and data visualizations.",
+    "duties_and_responsibilities": [
+        {
+            "responsibility": "Business Application Development",
+            "time_spent_percentage": 30,
+            "essential_function": true,
+            "tasks": [
+                "Design, develop, document, test and implement business applications that support strategic initiatives, create efficiencies, and deliver value across multiple functional business subject areas and supports application code meeting the business requirements.",
+                "Work in the various business system environments, scheduling processes, designing applications, custom programming, data modeling, and providing technical development support; utilizing a variety of tools and languages."
+            ]
+        },
+        {
+            "responsibility": "Business Requirements Analysis",
+            "time_spent_percentage": 35,
+            "essential_function": true,
+            "tasks": [
+                "Analyze business requirements for specific projects and other activities.",
+                "Collaborate with NeBIS Functional Team and end users as needed to understand functional needs and determine business specifications.",
+                "Provide technical support and ensure customizations and modifications are developed to meet the business needs as well as system/software requirements and standards.",
+                "Provide support and guidance on maintaining and upgrading business intelligence, ERP and other integrated business systems, following standards that apply to application development.",
+                "Ensure application processes are followed consistently and comply with applicable business policies and procedures."
+            ]
+        },
+        {
+            "responsibility": "Software Conversions and Implementations",
+            "time_spent_percentage": 35,
+            "essential_function": true,
+            "tasks": [
+                "Provide support, plan, and coordinate software conversions/implementations with an emphasis on providing a stable user-friendly computing environment.",
+                "Work with systems users, and internal staff to set priorities, schedule tasks, resolve problems, arrange training, and provide documentation and status reports as needed."
+            ]
+        }
+    ],
+    "supervision": "This position exercises no supervision over staff. This position receives supervision from the NeBIS Development lead and in partnership with the NeBIS Business Intelligence Lead. {This is based on level of proficiency and years of service.}",
+    "qualifications_and_attributes": {
+        "required_qualifications": [
+            "Two-years of post-secondary education",
+            "Three years of experience to include any combination listed: Demonstrated experience in application planning/design, software analysis/development and system/program management. Demonstrated experience in building tables, views, data providers, ETL mappings, ETL jobs using warehouse solutions and querying data. Demonstrated knowledge in database concepts and dimensional modeling.",
+            "Must demonstrate excellent verbal and written communications skills with attention to detail"
+        ],
+        "preferred_qualifications": [
+            "Bachelor’s Degree",
+            "Five years of experience",
+            "SAP Certification credentials",
+            "Experience with SAP ERP components, ABAP, and Data Dictionary Objects and Structures",
+            "UI5 and javascript programming",
+            "SAP Business Warehouse and Business Objects."
+        ],
+        "helpful_qualifications": [],
+        "minimum_qualifications": [],
+        "other_information": [
+            "Ideal candidates will be an agile and self-directed contributor with excellent analytical skills; exhibits exceptional verbal, written, and proofreading skills with the ability to clearly communicate and describe complex applications in understandable terms; and capable at identifying and solving problems; comfortable working in an open, collaborative, and diversified team environment; have a track record of timely completion of assignments and the ability to responsibly manage competing priorities; and a commitment to the ideals of a major public research university."
+        ]
+    },
+    "zone_definition_factors": [
+        {
+            "factor": "Nature/Complexity of Work",
+            "description": "The position requires an individual to accomplish their work independently, with technical competence and attention to detail. Exercises reliable professional judgment in accomplishing complex technical functions and objectives. Design and implementation of beginning to end solutions requires a fit into system architecture with clear and concise communication and coordination within the team as well as other technical and business groups."
+        },
+        {
+            "factor": "Problem Solving/Decision-making",
+            "description": "Position requires functional interpretation, discretion and judgment based on in-depth analysis of business processes and potential technical solutions at a detailed task and/or project level. Decisions often must be made quickly to meet aggressive timelines and customer expectations. With functional/team lead guidance, able to exercise decisions and define a problem resolution while delivering a successful, uncompromised course of action to complete a task or project. This also includes when and how to coordinate with business communities and technical staff. Within the business systems, overall correctness may not be apparent for variant periods of time ranging from hours when the work is completed to months depending upon the complexity of the tasks, requiring the ability to relate issues based on system modifications. Projects are diversified and require creativity in dealing with unprecedented activities and new business needs."
+        },
+        {
+            "factor": "Strategic Impact",
+            "description": "Errors reflect unfavorably on the individual, the functional area, overall business operations and other functional areas. In some instances, errors in the work performed may result in university systems being detrimentally impacted and/or disabled with a potential adverse impact to several thousand system end-users. Business decisions may be made on data that is incorrect, or provided in a way that is misleading, hard to understand, or hard to obtain. External deadlines are the most important factor when working through implementation of the business system applications. Not adhering to deadlines can impose major restraints on the progress of a business project."
+        },
+        {
+            "factor": "Know How",
+            "description": "Demonstrated ability to operate effectively within a dynamic environment working collaboratively with others to achieve team goals. Requires attention to detail and proficiency in task management, project planning, and analytical problem solving; promptly assess a complex situation then develop and implement effective solutions. Requires the ability to work efficiently applying excellent communication and interpersonal skills with multiple levels of management and data consumers utilizing time management and multi-tasking skills. Adept at learning new technologies and new systems functionality. Requires a general knowledge and awareness of business processes across functional areas."
+        },
+        {
+            "factor": "Technical Know How",
+            "description": "Must have a strong technical implementation background with either package or custom application systems. Desired knowledge of SAP ECC ERP development tools including but not limited to ABAP Programming, ABAP Web Dynpro, SAPScript, SAP Smartforms, SAPUI5, SAP Adobeforms, SAP workflow, SAP Fiori, Neptune Development, Lumira Designer, SAP data dictionary, ABAP Dialog Programming, SAP diagnostic tools, SAP Business Objects, ETL processing, BW development data modeling and 4th generation object-oriented programming."
+        },
+        {
+            "factor": "Interactions",
+            "description": "This position will require collaboration with the business end-users, functional groups, NeBIS functional, technical Basis and Application developers’ teams and other individuals both inside and outside of the organization. Able to work in a diversified team environment."
+        },
+        {
+            "factor": "Leadership",
+            "description": "NeBIS team members are expected to be able to manage individual projects, including exchanging communication within the NeBIS team. Individuals are also occasionally asked to represent the interests of the team on system-wide projects and by attending departmental, campus, and/or system-wide meetings. Able to; advocate new ideas, even when risk is involved; set an example for coworkers; and empower associates to make decisions; provide constructive feedback to others. Able to tactfully induce others in both positive and negative circumstances when expressing ideas or opinions; present new ideas to administrative leadership; adapt presentations suitable for a particular audience; thoughtfully respond to objections with understanding."
+        }
+    ],
+    "physical_activities": {
+        "general_physical_reqs": [
+            {
+                "activity": "sitting",
+                "hours": 6,
+                "type": "constant"
+            },
+            {
+                "activity": "standing",
+                "hours": 1,
+                "type": "constant"
+            },
+            {
+                "activity": "walking",
+                "hours": 1,
+                "type": "constant"
+            },
+            {
+                "activity": "drive_motor_vehicle",
+                "hours": 0,
+                "type": ""
+            }
+        ],
+        "specific_physical_reqs": [
+            {
+                "activity": "squating",
+                "frequency": "occasionally"
+            },
+            {
+                "activity": "bending",
+                "frequency": "occasionally"
+            },
+            {
+                "activity": "kneeling",
+                "frequency": "occasionally"
+            },
+            {
+                "activity": "reaching_overhead",
+                "frequency": "occasionally"
+            },
+            {
+                "activity": "reaching_forward",
+                "frequency": "occasionally"
+            },
+            {
+                "activity": "reaching_low",
+                "frequency": "occasionally"
+            },
+            {
+                "activity": "twisting",
+                "frequency": "occasionally"
+            },
+            {
+                "activity": "crawling",
+                "frequency": ""
+            },
+            {
+                "activity": "climbing_ladders",
+                "frequency": ""
+            },
+            {
+                "activity": "climbing_stairs",
+                "frequency": "occasionally"
+            },
+            {
+                "activity": "climbing_other",
+                "frequency": ""
+            },
+            {
+                "activity": "walking_on_rough_ground",
+                "frequency": ""
+            },
+            {
+                "activity": "exposure_to_changes_of_temperature_humidity",
+                "frequency": ""
+            },
+            {
+                "activity": "exposure_to_dust_fumes_gases_chemicals",
+                "frequency": ""
+            },
+            {
+                "activity": "being_near_moving_machinery",
+                "frequency": ""
+            },
+            {
+                "activity": "working_from_heights",
+                "frequency": ""
+            }
+        ],
+        "lifting_handling_reqs": [
+            {
+                "activity_type": "lift",
+                "range_and_frequency": [
+                    {
+                        "weight_range": "11-24 lbs",
+                        "frequency": "Less than 2 hrs/daily"
+                    },
+                    {
+                        "weight_range": "25-49 lbs",
+                        "frequency": ""
+                    },
+                    {
+                        "weight_range": "50-74 lbs",
+                        "frequency": ""
+                    },
+                    {
+                        "weight_range": "75-100 lbs",
+                        "frequency": ""
+                    },
+                    {
+                        "weight_range": "Over 100 lbs",
+                        "frequency": ""
+                    }
+                ]
+            },
+            {
+                "activity_type": "carry",
+                "range_and_frequency": [
+                    {
+                        "weight_range": "11-24 lbs",
+                        "frequency": "Less than 2 hrs/daily"
+                    },
+                    {
+                        "weight_range": "25-49 lbs",
+                        "frequency": ""
+                    },
+                    {
+                        "weight_range": "50-74 lbs",
+                        "frequency": ""
+                    },
+                    {
+                        "weight_range": "75-100 lbs",
+                        "frequency": ""
+                    },
+                    {
+                        "weight_range": "Over 100 lbs",
+                        "frequency": ""
+                    }
+                ]
+            },
+            {
+                "activity_type": "push",
+                "range_and_frequency": [
+                    {
+                        "weight_range": "11-24 lbs",
+                        "frequency": "Less than 2 hrs/daily"
+                    },
+                    {
+                        "weight_range": "25-49 lbs",
+                        "frequency": ""
+                    },
+                    {
+                        "weight_range": "50-74 lbs",
+                        "frequency": ""
+                    },
+                    {
+                        "weight_range": "75-100 lbs",
+                        "frequency": ""
+                    },
+                    {
+                        "weight_range": "Over 100 lbs",
+                        "frequency": ""
+                    }
+                ]
+            },
+            {
+                "activity_type": "pull",
+                "range_and_frequency": [
+                    {
+                        "weight_range": "11-24 lbs",
+                        "frequency": "Less than 2 hrs/daily"
+                    },
+                    {
+                        "weight_range": "25-49 lbs",
+                        "frequency": ""
+                    },
+                    {
+                        "weight_range": "50-74 lbs",
+                        "frequency": ""
+                    },
+                    {
+                        "weight_range": "75-100 lbs",
+                        "frequency": ""
+                    },
+                    {
+                        "weight_range": "Over 100 lbs",
+                        "frequency": ""
+                    }
+                ]
+            }
+        ],
+        "manual_dexterity_reqs": {
+            "keyboarding": {
+                "right_hand": false,
+                "left_hand": false,
+                "both_hands": true
+            },
+            "filing": {
+                "right_hand": false,
+                "left_hand": false,
+                "both_hands": false
+            },
+            "other_description": "Use of a computer and standard office equipment"
+        },
+        "work_attendance_reqs": {
+            "must_attend_workplace": false,
+            "alt_worksite_eligible": true,
+            "wfo_essential": false,
+            "wfo_non_essential": true
+        }
+    },
+    "application_procedure": "",
+    "additional_information": "",
+    "confidence_scores": {
+        "general_information": 0.95,
+        "position_summary": 0.95,
+        "duties_and_responsibilities": 0.95,
+        "supervision": 0.95,
+        "qualifications_and_attributes": 0.95,
+        "zone_definition_factors": 0.95,
+        "physical_activities": {
+            "general_physical_reqs": 0.95,
+            "specific_physical_reqs": 0.95,
+            "lifting_handling_reqs": 0.95,
+            "manual_dexterity_reqs": 0.95,
+            "work_attendance_reqs": 0.95
+        },
+        "application_procedure": 0.95,
+        "additional_information": 0.95
+    }
+}

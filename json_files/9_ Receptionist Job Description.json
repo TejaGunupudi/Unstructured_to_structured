@@ -1,0 +1,300 @@
+{
+  "general_information": {
+    "working_job_title": "Receptionist",
+    "job_family": "Administrative / Business Operations",
+    "job_family_zone": "Assistant",
+    "position_number": 9,
+    "department_name": "Office of the President",
+    "sap_organization_unit_number": "50000094",
+    "employee_name": "",
+    "date_of_last_update": "09062022",
+    "last_updated_by": "HR",
+    "title_of_supervisor": "Chief of Staff",
+    "sap_personnel": "",
+    "name_of_supervisor": "Phil Bakken"
+  },
+  "position_summary": "This position serves as receptionist for the University of Nebraska Office of the President at Varner Hall. Primary responsibilities include working with all departments to ensure a seamless guest experience; greeting guests as they arrive and guiding them to their meeting space; answering incoming calls, transferring, and taking messages; mail sorting and calling departments to pick-up incoming mail and packages; maintaining an organized front desk work area.",
+  "duties_and_responsibilities": [
+    {
+      "responsibility": "Receptionist Duties",
+      "time_spent_percentage": 100,
+      "essential_function": true,
+      "tasks": [
+        "Greet visitors to Varner Hall and direct them to meetings based on the Varner Hall room reservation calendar or guidance from appropriate staff.",
+        "Answer a multi-line central telephone and route calls to staff members or campus operator(s).",
+        "Answer routine inquiries; and receive deliveries."
+      ]
+    }
+  ],
+  "supervision": "This position receives direct supervision from the Chief of Staff with task-specific supervision from other President’s Office staff.",
+  "qualifications_and_attributes": {
+    "required_qualifications": [],
+    "preferred_qualifications": [],
+    "helpful_qualifications": [],
+    "minimum_qualifications": [
+      "Two years of experience demonstrating a high degree of professionalism in an office environment.",
+      "Knowledge of the University of Nebraska is beneficial."
+    ],
+    "other_information": []
+  },
+  "zone_definition_factors": [
+    {
+      "factor": "Nature/Complexity of Work",
+      "description": "This position must demonstrate attention to detail, accuracy, and sensitivity to confidential information. Performs work according to guidelines established. Requires the ability to work independently and as a team member, recognizing that the responsibilities of this position include working under some pressure, with executive-level personnel, and sometimes handling multiple tasks at one time. Must be adept in verbal communication skills, Microsoft Office computer skills and the ability to learn the University of Nebraska organizational structure."
+    },
+    {
+      "factor": "Problem Solving/Decision-making",
+      "description": "Established guidelines, instructions, and/or precedents apply to the majority of the tasks assigned to this position. However, this position must exercise judgement in problem solving calls and situations at the front office, prioritizing work, handling day-to-day inquiries, and understanding when to escalate issues to higher level positions."
+    },
+    {
+      "factor": "Strategic Impact",
+      "description": "This position has little influence on strategic development, none the less, discretion and confidentiality is required. This position is required to be proficient and conscientious in proving services and take appropriate steps to correct any errors. This position focuses on the tactical application of business processes and the actions and decisions in this job have an impact which primarily affects the immediate work group and in some circumstances/tasks this extends beyond the immediate functional area. Errors reflect unfavorably on the individual and the functional area."
+    },
+    {
+      "factor": "Know How",
+      "description": "A high degree of professionalism and demonstrated experience as a receptionist/customer service provider in an administrative office is required. Excellent written and verbal communication skills and attention to detail and accuracy are essential."
+    },
+    {
+      "factor": "Technical Know How",
+      "description": "Experience and proficiency with a multi-line telephone system. Experience and proficiency in the Microsoft Office Suite (Word, Excel, Outlook)."
+    },
+    {
+      "factor": "Interactions",
+      "description": "Recurring, daily contact with university staff and students, external constituents, and the general public. This position obtains and provides routine information according to prescribed business practices."
+    },
+    {
+      "factor": "Leadership",
+      "description": ""
+    }
+  ],
+  "physical_activities": {
+    "general_physical_reqs": [
+      {
+        "activity": "sitting",
+        "hours": 5,
+        "type": "constant"
+      },
+      {
+        "activity": "standing",
+        "hours": 2,
+        "type": "intermittent"
+      },
+      {
+        "activity": "walking",
+        "hours": 1,
+        "type": "intermittent"
+      },
+      {
+        "activity": "drive_motor_vehicle",
+        "hours": 0,
+        "type": ""
+      }
+    ],
+    "specific_physical_reqs": [
+      {
+        "activity": "squating",
+        "frequency": "occasionally"
+      },
+      {
+        "activity": "bending",
+        "frequency": "occasionally"
+      },
+      {
+        "activity": "kneeling",
+        "frequency": "occasionally"
+      },
+      {
+        "activity": "reaching_overhead",
+        "frequency": "occasionally"
+      },
+      {
+        "activity": "reaching_forward",
+        "frequency": "occasionally"
+      },
+      {
+        "activity": "reaching_low",
+        "frequency": "occasionally"
+      },
+      {
+        "activity": "twisting",
+        "frequency": "occasionally"
+      },
+      {
+        "activity": "crawling",
+        "frequency": ""
+      },
+      {
+        "activity": "climbing_ladders",
+        "frequency": ""
+      },
+      {
+        "activity": "climbing_stairs",
+        "frequency": ""
+      },
+      {
+        "activity": "climbing_other",
+        "frequency": ""
+      },
+      {
+        "activity": "walking_on_rough_ground",
+        "frequency": ""
+      },
+      {
+        "activity": "exposure_to_changes_of_temperature_humidity",
+        "frequency": ""
+      },
+      {
+        "activity": "exposure_to_dust_fumes_gases_chemicals",
+        "frequency": ""
+      },
+      {
+        "activity": "being_near_moving_machinery",
+        "frequency": ""
+      },
+      {
+        "activity": "working_from_heights",
+        "frequency": ""
+      }
+    ],
+    "lifting_handling_reqs": [
+      {
+        "activity_type": "lift",
+        "range_and_frequency": [
+          {
+            "weight_range": "11-24 lbs",
+            "frequency": "Less than 2 hrs/daily"
+          },
+          {
+            "weight_range": "25-49 lbs",
+            "frequency": ""
+          },
+          {
+            "weight_range": "50-74 lbs",
+            "frequency": ""
+          },
+          {
+            "weight_range": "75-100 lbs",
+            "frequency": ""
+          },
+          {
+            "weight_range": "Over 100 lbs",
+            "frequency": ""
+          }
+        ]
+      },
+      {
+        "activity_type": "carry",
+        "range_and_frequency": [
+          {
+            "weight_range": "11-24 lbs",
+            "frequency": "Less than 2 hrs/daily"
+          },
+          {
+            "weight_range": "25-49 lbs",
+            "frequency": ""
+          },
+          {
+            "weight_range": "50-74 lbs",
+            "frequency": ""
+          },
+          {
+            "weight_range": "75-100 lbs",
+            "frequency": ""
+          },
+          {
+            "weight_range": "Over 100 lbs",
+            "frequency": ""
+          }
+        ]
+      },
+      {
+        "activity_type": "push",
+        "range_and_frequency": [
+          {
+            "weight_range": "11-24 lbs",
+            "frequency": "Less than 2 hrs/daily"
+          },
+          {
+            "weight_range": "25-49 lbs",
+            "frequency": ""
+          },
+          {
+            "weight_range": "50-74 lbs",
+            "frequency": ""
+          },
+          {
+            "weight_range": "75-100 lbs",
+            "frequency": ""
+          },
+          {
+            "weight_range": "Over 100 lbs",
+            "frequency": ""
+          }
+        ]
+      },
+      {
+        "activity_type": "pull",
+        "range_and_frequency": [
+          {
+            "weight_range": "11-24 lbs",
+            "frequency": "Less than 2 hrs/daily"
+          },
+          {
+            "weight_range": "25-49 lbs",
+            "frequency": ""
+          },
+          {
+            "weight_range": "50-74 lbs",
+            "frequency": ""
+          },
+          {
+            "weight_range": "75-100 lbs",
+            "frequency": ""
+          },
+          {
+            "weight_range": "Over 100 lbs",
+            "frequency": ""
+          }
+        ]
+      }
+    ],
+    "manual_dexterity_reqs": {
+      "keyboarding": {
+        "right_hand": false,
+        "left_hand": false,
+        "both_hands": true
+      },
+      "filing": {
+        "right_hand": false,
+        "left_hand": false,
+        "both_hands": true
+      },
+      "other_description": "Operation of standard office equipment"
+    },
+    "work_attendance_reqs": {
+      "must_attend_workplace": true,
+      "alt_worksite_eligible": false,
+      "wfo_essential": true,
+      "wfo_non_essential": false
+    }
+  },
+  "application_procedure": "",
+  "additional_information": "",
+  "confidence_scores": {
+    "general_information": 0.95,
+    "position_summary": 0.95,
+    "duties_and_responsibilities": 0.95,
+    "supervision": 0.95,
+    "qualifications_and_attributes": 0.95,
+    "zone_definition_factors": 0.95,
+    "physical_activities": {
+      "general_physical_reqs": 0.95,
+      "specific_physical_reqs": 0.95,
+      "lifting_handling_reqs": 0.95,
+      "manual_dexterity_reqs": 0.95,
+      "work_attendance_reqs": 0.95
+    },
+    "application_procedure": 0.95,
+    "additional_information": 0.95
+  }
+}

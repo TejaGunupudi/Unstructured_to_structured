@@ -1,0 +1,333 @@
+{
+    "general_information": {
+        "working_job_title": "SAP Application Developer",
+        "job_family": "Information Technology",
+        "job_family_zone": "Programmer/Analyst",
+        "position_number": "",
+        "department_name": "NeBIS",
+        "sap_organization_unit_number": "50000332",
+        "employee_name": "",
+        "date_of_last_update": "26092023",
+        "last_updated_by": "HR",
+        "title_of_supervisor": "Lead SAP Developer",
+        "sap_personnel": "",
+        "name_of_supervisor": "Tony Sullivan"
+    },
+    "position_summary": "The position is responsible for providing SAP application program development for the University of Nebraska and Nebraska State College and is part of the Nebraska Business Information System technical team. This position will provide primary support for SAP R3/HANA system implementing technical business solutions to meet SAP system/software requirements ensuring integration with other applications in use for the business purpose. Conduct research and maintain high level knowledge in systems software/hardware to ensure integrity and expectation for business support.Classification and salary will be commensurate with Education and Experience. The NeBIS office and their staff are located in Lincoln, NE.",
+    "duties_and_responsibilities": [
+        {
+            "responsibility": "Application Development and Support",
+            "time_spent_percentage": 45,
+            "essential_function": true,
+            "tasks": [
+                "Design, develop, test, and modify application programs and solutions, including both front-end and back-end applications to meet business community needs across multiple functional business subject areas.",
+                "Willingness to use and learn a variety of tools and languages to meet the business needs."
+            ]
+        },
+        {
+            "responsibility": "Application Maintenance",
+            "time_spent_percentage": 30,
+            "essential_function": true,
+            "tasks": [
+                "Maintain applications, monitor the SAP systems and solutions, test and troubleshoot all errors that occur.",
+                "Provide support, plan, and coordinate software conversions/implementations emphasizing a stable user-friendly computing environment.",
+                "Interact with systems users, and internal staff to set priorities, schedule tasks, resolve problems, arrange training, and provide documentation and status reports as needed."
+            ]
+        },
+        {
+            "responsibility": "Collaboration and Customization",
+            "time_spent_percentage": 25,
+            "essential_function": true,
+            "tasks": [
+                "Partner with NeBIS Functional Team and system users when needed.",
+                "Provide support and ensure customization and modifications are developed to meet the business community needs, system/software requirements and standards.",
+                "Provide support and guidance on maintaining and upgrading SAP systems, following standards that apply to application development.",
+                "Ensure application processes are followed consistently and comply with applicable business policies and procedures."
+            ]
+        }
+    ],
+    "supervision": "This position exercises no supervision over other staff. This position receives close to moderate supervision from the Lead SAP Developer.",
+    "qualifications_and_attributes": {
+        "required_qualifications": [
+            "Two years of post-secondary education",
+            "Two years of experience to include: Application planning/design, software analysis/development and system program management.",
+            "Knowledge in PC environment, database concepts and dimensional modeling.",
+            "Demonstrated experience supporting business systems",
+            "Must demonstrate proficient verbal and written communications skills to express information (ideas or facts) effectively, considering the audience and nature of the information (example: technical use versus business use, sensitive or controversial information) in addition to making clear and reliable oral presentations."
+        ],
+        "preferred_qualifications": [
+            "Bachelor’s degree",
+            "Five years of experience",
+            "Educational coursework in computer science, MIS, Math, or Engineering",
+            "Experience supporting SAP ABAP, SAP Portal System",
+            "SAP Certification credentials",
+            "Preferred knowledge in SAP R/3 development tools including the ABAP Programming Language, ABAP objects and 4th generation object-oriented programming, SAP Data Dictionary components, SAP Exit and Enhancement tools, Portal structures, ABAP Dialog Programming, SAP Menu Painter coding, SAP diagnostic tools, PC environment, SAPUI5 and Fiori"
+        ],
+        "helpful_qualifications": [],
+        "minimum_qualifications": [],
+        "other_information": [
+            "Equivalent combination of education, experience, that provides the required knowledge, skills, and abilities may be considered.",
+            "The ideal candidate is an agile, self-starter comfortable with collaboration and oversight of distributed resources and/or project teams; an energetic, creative problem solver; a resilient learner who is able to develop relationships with the university’s stakeholders; the ability to responsibly manage competing priorities; and commitment to the ideals of a major public research university."
+        ]
+    },
+    "zone_definition_factors": [
+        {
+            "factor": "Nature/Complexity of Work",
+            "description": "The position requires an individual to perform their work independently, utilizing technical tools and a focus on detail. Exercises judgment to accomplish technical functions and objectives. Business solutions must fit into team and system architecture and requires clear and concise communication and coordination with technical and business groups."
+        },
+        {
+            "factor": "Problem Solving/Decision-making",
+            "description": "Position requires attention to detail, understanding the possible outcomes when programming and testing business solutions. To understand all the possible outcomes, it is imperative that one works with the business and team leads. Decisions often must be made quickly to meet aggressive timelines and customer expectations. With some guidance, must be able to exercise decisions and define a problem resolution while delivering a successful, uncompromised course of action to complete a task or project. This also includes when and how to coordinate with clients, and technical staff. Within SAP overall correctness may not be apparent for variant periods of time ranging from hours when the work is completed to months depending upon the complexity of the tasks. Projects are diversified and will require research, applicable training and analytical skills in dealing with unprecedented activities."
+        },
+        {
+            "factor": "Strategic Impact",
+            "description": "Errors reflect unfavorably on the individual, the functional area, overall business operations and other functional areas. In some instances, errors in the work performed may result in university systems being detrimentally impacted and/or disabled with a potential adverse impact to several thousand system end-users. Business decisions may be made on data that is incorrect, or provided in a way that is misleading, hard to understand, or hard to obtain. External deadlines are the most important factor when working through implementation of the SAP projects. Not adhering to this could cause major restraints on the progress of the SAP Project."
+        },
+        {
+            "factor": "Know How",
+            "description": "Demonstrated ability to operate effectively within a dynamic environment working collaboratively with others to achieve team goals. Must be detail oriented and proficient in task management, planning, and analytical problem solving; can quickly assess a technical scenarios and situations requiring business development needs and effective solutions. Requires the ability to work efficiently applying proficient communication and interpersonal skills with multiple levels of management and data consumers utilizing time management and multi-tasking skills. Adept at learning new technologies and functionality of new systems. Requires a general knowledge and awareness of business processes across functional areas (HR, benefits, finance, etc.)"
+        },
+        {
+            "factor": "Technical Know How",
+            "description": "Knowledge in understanding general operating system installations, upgrades, patches, backups, performance and tuning, security for the operating system environment to accommodate troubleshooting, testing and debugging issues ensuring quality system integrity. Preferred knowledge but not limited to SAP R/3 development tools including the ABAP Programming Language, ABAP objects and 4th generation object-oriented programming, SAP Data Dictionary components, SAP Exit and Enhancement tools, Portal structures, ABAP Dialog Programming, SAP Menu Painter coding, SAP diagnostic tools, PC environment. Preferred knowledge of SAPUI5 and Fiori preferred."
+        },
+        {
+            "factor": "Interactions",
+            "description": "This position will require collaboration with the NeBIS functional, technical Basis and Application developers’ teams and when required business end-users, functional groups and other individuals both inside and outside of the organization. Able to work in a diversified team environment."
+        },
+        {
+            "factor": "Leadership",
+            "description": "NeBIS team members are expected to be able to manage individual enhancements and projects, including exchanging communication within the NeBIS team. Individuals are also occasionally asked to represent the interests of the team on system-wide projects and by attending departmental, campus, and/or system-wide meetings. Advocate new ideas, even when risk is involved; set an example within the team. Able to present new ideas to functional team leads and administrative leadership; be adaptable and thoughtful when responding to objections with understanding."
+        }
+    ],
+    "physical_activities": {
+        "general_physical_reqs": [
+            {
+                "activity": "sitting",
+                "hours": 6,
+                "type": "constant"
+            },
+            {
+                "activity": "standing",
+                "hours": 1,
+                "type": "constant"
+            },
+            {
+                "activity": "walking",
+                "hours": 1,
+                "type": "constant"
+            },
+            {
+                "activity": "drive_motor_vehicle",
+                "hours": 0,
+                "type": ""
+            }
+        ],
+        "specific_physical_reqs": [
+            {
+                "activity": "squating",
+                "frequency": "occasionally"
+            },
+            {
+                "activity": "bending",
+                "frequency": "occasionally"
+            },
+            {
+                "activity": "kneeling",
+                "frequency": "occasionally"
+            },
+            {
+                "activity": "reaching_overhead",
+                "frequency": "occasionally"
+            },
+            {
+                "activity": "reaching_forward",
+                "frequency": "occasionally"
+            },
+            {
+                "activity": "reaching_low",
+                "frequency": "occasionally"
+            },
+            {
+                "activity": "twisting",
+                "frequency": "occasionally"
+            },
+            {
+                "activity": "crawling",
+                "frequency": ""
+            },
+            {
+                "activity": "climbing_ladders",
+                "frequency": ""
+            },
+            {
+                "activity": "climbing_stairs",
+                "frequency": ""
+            },
+            {
+                "activity": "climbing_other",
+                "frequency": ""
+            },
+            {
+                "activity": "walking_on_rough_ground",
+                "frequency": ""
+            },
+            {
+                "activity": "exposure_to_changes_of_temperature_humidity",
+                "frequency": ""
+            },
+            {
+                "activity": "exposure_to_dust_fumes_gases_chemicals",
+                "frequency": ""
+            },
+            {
+                "activity": "being_near_moving_machinery",
+                "frequency": ""
+            },
+            {
+                "activity": "working_from_heights",
+                "frequency": ""
+            }
+        ],
+        "lifting_handling_reqs": [
+            {
+                "activity_type": "lift",
+                "range_and_frequency": [
+                    {
+                        "weight_range": "11-24 lbs",
+                        "frequency": "Less than 2 hrs/daily"
+                    },
+                    {
+                        "weight_range": "25-49 lbs",
+                        "frequency": ""
+                    },
+                    {
+                        "weight_range": "50-74 lbs",
+                        "frequency": ""
+                    },
+                    {
+                        "weight_range": "75-100 lbs",
+                        "frequency": ""
+                    },
+                    {
+                        "weight_range": "Over 100 lbs",
+                        "frequency": ""
+                    }
+                ]
+            },
+            {
+                "activity_type": "carry",
+                "range_and_frequency": [
+                    {
+                        "weight_range": "11-24 lbs",
+                        "frequency": "Less than 2 hrs/daily"
+                    },
+                    {
+                        "weight_range": "25-49 lbs",
+                        "frequency": ""
+                    },
+                    {
+                        "weight_range": "50-74 lbs",
+                        "frequency": ""
+                    },
+                    {
+                        "weight_range": "75-100 lbs",
+                        "frequency": ""
+                    },
+                    {
+                        "weight_range": "Over 100 lbs",
+                        "frequency": ""
+                    }
+                ]
+            },
+            {
+                "activity_type": "push",
+                "range_and_frequency": [
+                    {
+                        "weight_range": "11-24 lbs",
+                        "frequency": "Less than 2 hrs/daily"
+                    },
+                    {
+                        "weight_range": "25-49 lbs",
+                        "frequency": ""
+                    },
+                    {
+                        "weight_range": "50-74 lbs",
+                        "frequency": ""
+                    },
+                    {
+                        "weight_range": "75-100 lbs",
+                        "frequency": ""
+                    },
+                    {
+                        "weight_range": "Over 100 lbs",
+                        "frequency": ""
+                    }
+                ]
+            },
+            {
+                "activity_type": "pull",
+                "range_and_frequency": [
+                    {
+                        "weight_range": "11-24 lbs",
+                        "frequency": "Less than 2 hrs/daily"
+                    },
+                    {
+                        "weight_range": "25-49 lbs",
+                        "frequency": ""
+                    },
+                    {
+                        "weight_range": "50-74 lbs",
+                        "frequency": ""
+                    },
+                    {
+                        "weight_range": "75-100 lbs",
+                        "frequency": ""
+                    },
+                    {
+                        "weight_range": "Over 100 lbs",
+                        "frequency": ""
+                    }
+                ]
+            }
+        ],
+        "manual_dexterity_reqs": {
+            "keyboarding": {
+                "right_hand": false,
+                "left_hand": false,
+                "both_hands": true
+            },
+            "filing": {
+                "right_hand": false,
+                "left_hand": false,
+                "both_hands": false
+            },
+            "other_description": "Operation of a standard office and computer equipment."
+        },
+        "work_attendance_reqs": {
+            "must_attend_workplace": true,
+            "alt_worksite_eligible": false,
+            "wfo_essential": false,
+            "wfo_non_essential": true
+        }
+    },
+    "application_procedure": "",
+    "additional_information": "",
+    "confidence_scores": {
+        "general_information": 0.95,
+        "position_summary": 0.95,
+        "duties_and_responsibilities": 0.95,
+        "supervision": 0.95,
+        "qualifications_and_attributes": 0.95,
+        "zone_definition_factors": 0.95,
+        "physical_activities": {
+            "general_physical_reqs": 0.95,
+            "specific_physical_reqs": 0.95,
+            "lifting_handling_reqs": 0.95,
+            "manual_dexterity_reqs": 0.95,
+            "work_attendance_reqs": 0.95
+        },
+        "application_procedure": 0.95,
+        "additional_information": 0.95
+    }
+}

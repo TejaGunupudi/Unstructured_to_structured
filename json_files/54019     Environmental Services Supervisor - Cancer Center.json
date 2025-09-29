@@ -1,0 +1,362 @@
+{
+    "general_information": {
+        "working_job_title": "Environmental Services Supervisor – Cancer Center",
+        "job_family": "Facilities and Planning Operations",
+        "job_family_zone": "Custodial",
+        "position_number": "",
+        "department_name": "Facilities Mgt & Planning",
+        "sap_organization_unit_number": "",
+        "employee_name": "",
+        "date_of_last_update": "",
+        "last_updated_by": "",
+        "title_of_supervisor": "",
+        "sap_personnel": "",
+        "name_of_supervisor": "Brenda Marker"
+    },
+    "position_summary": "Under the direction of the Custodial Manager, this position is responsible for supervising and coordinating custodial duties for medical facilities on campus. Quality customer service will be always provided to the client. Knowledge of proper cleaning techniques is essential. Essential Functions: Daily job responsibilities/functions to include, but not limited to: Supervision of the essential functions of custodial activities for assigned buildings. Provide training and supervision of staff based on departmental standards. Supervise budget and acquisition of materials and resources need to perform job duties.",
+    "duties_and_responsibilities": [
+        {
+            "responsibility": "Attendance",
+            "time_spent_percentage": 0,
+            "essential_function": true,
+            "tasks": [
+                "For this position, regular and reliable attendance is an essential job function."
+            ]
+        },
+        {
+            "responsibility": "Essential Personnel",
+            "time_spent_percentage": 0,
+            "essential_function": true,
+            "tasks": [
+                "This position is considered essential personnel based on job responsibilities. In the event of a campus incident, this position may be required to report to work, even during periods when the campus is closed, due to its essential nature."
+            ]
+        },
+        {
+            "responsibility": "Business Necessity",
+            "time_spent_percentage": 0,
+            "essential_function": true,
+            "tasks": [
+                "Due to business necessity, this position may be required to perform tasks outside of typical job requirements at the supervisor’s discretion."
+            ]
+        },
+        {
+            "responsibility": "Infection Control",
+            "time_spent_percentage": 40,
+            "essential_function": false,
+            "tasks": [
+                "Supervise compliance with infection prevention protocols and cleaning standards."
+            ]
+        },
+        {
+            "responsibility": "Staff Supervision",
+            "time_spent_percentage": 40,
+            "essential_function": false,
+            "tasks": [
+                "Supervise custodial staff including but not limited to time records, performance reviews, quality inspections, and work schedules."
+            ]
+        },
+        {
+            "responsibility": "Relationship Management",
+            "time_spent_percentage": 18,
+            "essential_function": false,
+            "tasks": [
+                "Establishes and monitors working relationships with building supervisors, administrators, maintains records and correspondence, submits purchase requests, assists in hiring qualified employees."
+            ]
+        },
+        {
+            "responsibility": "Other Duties",
+            "time_spent_percentage": 2,
+            "essential_function": false,
+            "tasks": [
+                "All other duties as assigned."
+            ]
+        }
+    ],
+    "supervision": "This position exercises direct supervision over custodial leads and custodians.",
+    "qualifications_and_attributes": {
+        "required_qualifications": [
+            "a high school diploma or ged education",
+            "two years of custodial experience that will enable the incumbent to perform the duties and responsibilities of the position",
+            "must be able to follow oral and written instructions",
+            "travel up and down stairs, climb, stoop, bend, and work from ladders or platforms at various heights",
+            "interpersonal and communications skills as performed in a critical customer service capacity interacting with residents, department staff, campus staff and community external to unk",
+            "valid motor vehicle operator’s license and meet university driver eligibility requirements"
+        ],
+        "preferred_qualifications": [
+            "custodial experience in the medical field preferred"
+        ],
+        "helpful_qualifications": [],
+        "minimum_qualifications": [
+            "a high school diploma or ged education",
+            "two years of custodial experience that will enable the incumbent to perform the duties and responsibilities of the position",
+            "must be able to follow oral and written instructions",
+            "travel up and down stairs, climb, stoop, bend, and work from ladders or platforms at various heights",
+            "interpersonal and communications skills as performed in a critical customer service capacity interacting with residents, department staff, campus staff and community external to unk",
+            "valid motor vehicle operator’s license and meet university driver eligibility requirements",
+            "negative result of 10-panel urine drug screen must be completed within 60 days of assigned start date",
+            "proof of evidence of completion of mmr, varicella, tetanus/dtap/td, and hepatitis b vaccinations and proof of tb screening prior to assigned start date",
+            "pre-employment health screening"
+        ],
+        "other_information": []
+    },
+    "zone_definition_factors": [
+        {
+            "factor": "Nature/Complexity of Work",
+            "description": "Requires the ability to utilize advanced information within a specialization. Within specialization, possesses the ability to assess/analyze situations and make adjustments to achieve desired objectives. Possesses knowledge of work activities outside functional area. May require the operation of complex equipment/tools."
+        },
+        {
+            "factor": "Problem Solving/Decision-making",
+            "description": "Decisions/problem resolutions require interpretation, discretion and judgment based on precedent or standard operating policies and procedures. Tasks are diversified and may require some creativity in dealing with unprecedented activities."
+        },
+        {
+            "factor": "Strategic Impact",
+            "description": "Actions and decisions in this job have discernible impact to the short-term performance of the Program/Team and exert some impact to its long-term success. Errors reflect unfavorably on the individual, the functional area, overall business operations and potentially other functional areas."
+        },
+        {
+            "factor": "Know How",
+            "description": ""
+        },
+        {
+            "factor": "Technical Know How",
+            "description": ""
+        },
+        {
+            "factor": "Interactions",
+            "description": "Regular contact that involves exchanging advice and opinions as well as occasionally conveying conceptual ideas of a critical and/or long-range nature. Requires the use of judgment, timing, and persuasion to gain cooperation in the face of differences of opinion or controversy."
+        },
+        {
+            "factor": "Leadership",
+            "description": ""
+        }
+    ],
+    "physical_activities": {
+        "general_physical_reqs": [
+            {
+                "activity": "sitting",
+                "hours": 1,
+                "type": "intermittent"
+            },
+            {
+                "activity": "standing",
+                "hours": 7,
+                "type": "constant"
+            },
+            {
+                "activity": "walking",
+                "hours": 7,
+                "type": "constant"
+            },
+            {
+                "activity": "drive_motor_vehicle",
+                "hours": 1,
+                "type": "intermittent"
+            }
+        ],
+        "specific_physical_reqs": [
+            {
+                "activity": "squating",
+                "frequency": "Between 2-5 hrs daily"
+            },
+            {
+                "activity": "bending",
+                "frequency": "Between 2-5 hrs daily"
+            },
+            {
+                "activity": "kneeling",
+                "frequency": "Between 2-5 hrs daily"
+            },
+            {
+                "activity": "reaching_overhead",
+                "frequency": "occasionally"
+            },
+            {
+                "activity": "reaching_forward",
+                "frequency": "Between 2-5 hrs daily"
+            },
+            {
+                "activity": "reaching_low",
+                "frequency": "Between 2-5 hrs daily"
+            },
+            {
+                "activity": "twisting",
+                "frequency": ""
+            },
+            {
+                "activity": "crawling",
+                "frequency": ""
+            },
+            {
+                "activity": "climbing_ladders",
+                "frequency": "occasionally"
+            },
+            {
+                "activity": "climbing_stairs",
+                "frequency": "occasionally"
+            },
+            {
+                "activity": "climbing_other",
+                "frequency": ""
+            },
+            {
+                "activity": "walking_on_rough_ground",
+                "frequency": "occasionally"
+            },
+            {
+                "activity": "exposure_to_changes_of_temperature_humidity",
+                "frequency": "occasionally"
+            },
+            {
+                "activity": "exposure_to_dust_fumes_gases_chemicals",
+                "frequency": ""
+            },
+            {
+                "activity": "being_near_moving_machinery",
+                "frequency": "occasionally"
+            },
+            {
+                "activity": "working_from_heights",
+                "frequency": "occasionally"
+            }
+        ],
+        "lifting_handling_reqs": [
+            {
+                "activity_type": "lift",
+                "range_and_frequency": [
+                    {
+                        "weight_range": "50-74 lbs",
+                        "frequency": "Less than 2 hrs daily"
+                    },
+                    {
+                        "weight_range": "11-24 lbs",
+                        "frequency": "Between 2-5 hrs daily"
+                    },
+                    {
+                        "weight_range": "25-49 lbs",
+                        "frequency": "Up to 2 hrs daily"
+                    },
+                    {
+                        "weight_range": "75-100 lbs",
+                        "frequency": ""
+                    },
+                    {
+                        "weight_range": "Over 100 lbs",
+                        "frequency": ""
+                    }
+                ]
+            },
+            {
+                "activity_type": "carry",
+                "range_and_frequency": [
+                    {
+                        "weight_range": "50-74 lbs",
+                        "frequency": "Less than 2 hrs daily"
+                    },
+                    {
+                        "weight_range": "11-24 lbs",
+                        "frequency": "Between 2-5 hrs daily"
+                    },
+                    {
+                        "weight_range": "25-49 lbs",
+                        "frequency": "Up to 2 hrs daily"
+                    },
+                    {
+                        "weight_range": "75-100 lbs",
+                        "frequency": ""
+                    },
+                    {
+                        "weight_range": "Over 100 lbs",
+                        "frequency": ""
+                    }
+                ]
+            },
+            {
+                "activity_type": "push",
+                "range_and_frequency": [
+                    {
+                        "weight_range": "11-24 lbs",
+                        "frequency": "Less than 2 hrs daily"
+                    },
+                    {
+                        "weight_range": "25-49 lbs",
+                        "frequency": "Less than 2 hrs daily"
+                    },
+                    {
+                        "weight_range": "50-74 lbs",
+                        "frequency": ""
+                    },
+                    {
+                        "weight_range": "75-100 lbs",
+                        "frequency": ""
+                    },
+                    {
+                        "weight_range": "Over 100 lbs",
+                        "frequency": ""
+                    }
+                ]
+            },
+            {
+                "activity_type": "pull",
+                "range_and_frequency": [
+                    {
+                        "weight_range": "11-24 lbs",
+                        "frequency": "Less than 2 hrs daily"
+                    },
+                    {
+                        "weight_range": "25-49 lbs",
+                        "frequency": "Less than 2 hrs daily"
+                    },
+                    {
+                        "weight_range": "50-74 lbs",
+                        "frequency": ""
+                    },
+                    {
+                        "weight_range": "75-100 lbs",
+                        "frequency": ""
+                    },
+                    {
+                        "weight_range": "Over 100 lbs",
+                        "frequency": ""
+                    }
+                ]
+            }
+        ],
+        "manual_dexterity_reqs": {
+            "keyboarding": {
+                "right_hand": false,
+                "left_hand": false,
+                "both_hands": true
+            },
+            "filing": {
+                "right_hand": false,
+                "left_hand": false,
+                "both_hands": true
+            },
+            "other_description": "Operation of a computer mouse and keyboard with their dominant hand."
+        },
+        "work_attendance_reqs": {
+            "must_attend_workplace": true,
+            "alt_worksite_eligible": false,
+            "wfo_essential": true,
+            "wfo_non_essential": false
+        }
+    },
+    "application_procedure": "This position requires - Negative result of 10-panel urine drug screen must be completed within 60 days of assigned start date. Proof of evidence of completion of MMR, Varicella, Tetanus/Dtap/Td, and Hepatitis B vaccinations and proof of TB screening prior to assigned start date. Pre-employment health screening.",
+    "additional_information": "",
+    "confidence_scores": {
+        "general_information": 0.95,
+        "position_summary": 0.95,
+        "duties_and_responsibilities": 0.95,
+        "supervision": 0.95,
+        "qualifications_and_attributes": 0.95,
+        "zone_definition_factors": 0.95,
+        "physical_activities": {
+            "general_physical_reqs": 0.95,
+            "specific_physical_reqs": 0.95,
+            "lifting_handling_reqs": 0.95,
+            "manual_dexterity_reqs": 0.95,
+            "work_attendance_reqs": 0.95
+        },
+        "application_procedure": 0.95,
+        "additional_information": 0.95
+    }
+}
